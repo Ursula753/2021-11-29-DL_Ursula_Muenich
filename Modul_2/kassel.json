@@ -1,0 +1,825 @@
+
+{  
+   "types" : {
+      "Bookmark" : {
+         "pluralLabel" : "Bookmarks"
+      },
+      "Publication" : {
+         "pluralLabel" : "Publications"
+      },
+      "GoldStandardPublication" : {
+         "pluralLabel" : "GoldStandardPublications"
+      },
+      "GoldStandardBookmark" : {
+         "pluralLabel" : "GoldStandardBookmarks"
+      },
+      "Tag" : {
+         "pluralLabel" : "Tags"
+      },
+      "User" : {
+         "pluralLabel" : "Users"
+      },
+      "Sphere" : {
+         "pluralLabel" : "Spheres"
+      }
+   },
+   
+   "properties" : {
+      "count" : {
+         "valueType" : "number"
+      },
+      "date" : {
+         "valueType" : "date"
+      },
+      "changeDate" : {
+         "valueType" : "date"
+      },
+      "url" : {
+         "valueType" : "url"
+      },
+      "id" : {
+         "valueType" : "url"
+      },
+      "tags" : {
+         "valueType" : "item"
+      },
+      "user" : {
+         "valueType" : "item"
+      }      
+   },
+   
+   "items" : [
+   	  
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2a9b10dbb0f006a7a71b7449de76c49a7/brinckmann",         
+         "tags" : [
+            "städtebau","wiederaufbau"
+         ],
+         
+         "intraHash" : "a9b10dbb0f006a7a71b7449de76c49a7",
+         "interHash" : "b6a59ac93ba2acb9d5498b65781270d1",
+         "label" : "Kassel",
+         "user" : "brinckmann",
+         "description" : "Gefunden im HeBIS-Portal: http://www.portal.hebis.de/",
+         "date" : "2016-03-20 16:25:19",
+         "changeDate" : "2016-03-20 16:25:19",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Städte","booktitle": "Kassel",
+         "year": " 1988 ", 
+         "url": "", 
+         
+         "author": [ 
+            "Niels Durth, Werner; Gutschow"
+         ],
+         "authors": [
+         	
+            	{"first" : "Niels",	"last" : "Durth, Werner; Gutschow"}
+         ],
+         "pages": "791-810",
+         "bibtexKey": "Memo148756"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/213c55b9ef55e43c9885f0b01e5605032/stumme",         
+         "tags" : [
+            "Kassel"
+         ],
+         
+         "intraHash" : "13c55b9ef55e43c9885f0b01e5605032",
+         "interHash" : "de66d716b992246867a2b172b1986f47",
+         "label" : "Kassel : Stadtführer",
+         "user" : "stumme",
+         "description" : "Kassel: Stadtführer: Amazon.de: Michael Imhof: Bücher",
+         "date" : "2015-07-01 11:42:23",
+         "changeDate" : "2015-07-01 11:42:23",
+         "count" : 1,
+         "pub-type": "book",
+         "publisher":"Imhof","address":"Petersberg",
+         "year": "1997", 
+         "url": "http://www.amazon.de/Kassel-Stadtf%C3%BChrer-Michael-Imhof/dp/3932526074/ref=sr_1_1?s=books&ie=UTF8&qid=1435743690&sr=1-1&keywords=kassel", 
+         
+         "author": [ 
+            "Michael Imhof"
+         ],
+         "authors": [
+         	
+            	{"first" : "Michael",	"last" : "Imhof"}
+         ],
+         
+         "isbn" : "3932526074 9783932526077",
+         
+         "refid" : "43830809",
+         
+         "bibtexKey": "imhof1997kassel"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/24c41992414e277c1a7d6f63ad581f76e/seboettg",         
+         "tags" : [
+            "asta","hochschulpolitik","hopo","kassel","myown","unikassel"
+         ],
+         
+         "intraHash" : "4c41992414e277c1a7d6f63ad581f76e",
+         "interHash" : "c62c7db53fdcf152e5aaacefeafec2a8",
+         "label" : "Ein Schauspiel in drei Akten: Der Kampf gegen Studiengebühren \u2013 2006 bis 2008",
+         "user" : "seboettg",
+         "description" : "",
+         "date" : "2014-10-02 23:51:24",
+         "changeDate" : "2014-10-02 23:51:24",
+         "count" : 1,
+         "pub-type": "incollection",
+         "booktitle": "Studentische Hochschulpolitik für die Universität Kassel: 40 Jahre zwischen Bildungsprotest und Verteidigung der politischen Selbstverwaltung","publisher":"Kassel University Press","address":"Kassel",
+         "year": "2012", 
+         "url": "http://www.upress.uni-kassel.de/katalog/abstract.php?978-3-86219-250-2", 
+         
+         "author": [ 
+            "Sebastian Böttger"
+         ],
+         "authors": [
+         	
+            	{"first" : "Sebastian",	"last" : "Böttger"}
+         ],
+         
+         "editor": [ 
+            "Miriam Lotto","Jana Preuß","Sebastian Weise-Kusche"
+         ],
+         "editors": [
+         	
+            	{"first" : "Miriam",	"last" : "Lotto"},
+            	{"first" : "Jana",	"last" : "Preuß"},
+            	{"first" : "Sebastian",	"last" : "Weise-Kusche"}
+         ],
+         "pages": "34--42",
+         "isbn" : "9783862192502 3862192504",
+         
+         "refid" : "808103551",
+         
+         "bibtexKey": "boettger2012schauspiel"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/29954ca537af01563fa0f78c0467a935d/seboettg",         
+         "tags" : [
+            "sammelband"
+         ],
+         
+         "intraHash" : "9954ca537af01563fa0f78c0467a935d",
+         "interHash" : "877a8af9d49e74832dbb091bc4533140",
+         "label" : "Vom Königshof zur Stadt : Kassel im Mittelalter",
+         "user" : "seboettg",
+         "description" : "",
+         "date" : "2014-10-02 23:51:22",
+         "changeDate" : "2014-10-02 23:51:22",
+         "count" : 1,
+         "pub-type": "book",
+         "publisher":"euregioverlag","address":"Kassel, Hess",
+         "year": "2013", 
+         "url": "http://deposit.d-nb.de/cgi-bin/dokserv?id=4386411&prov=M&dok_var=1&dok_ext=htm", 
+         
+         "editor": [ 
+            "Ingrid Baumgärtner"
+         ],
+         "editors": [
+         	
+            	{"first" : "Ingrid",	"last" : "Baumgärtner"}
+         ],
+         
+         "partauthors" : "<div class=äuthornolink\">Baumgärtner, Ingrid</div><a class=\"link authorlink\" href=\"https://hds.hebis.de/ubks/Author/Home?author=Baumg%C3%A4rtner%2C+Ingrid\">Baumgärtner, Ingrid</a> (Hrsg.)",
+         
+         "uniqueid" : "HEB334086906",
+         
+         "shortsubtitle" : ": Kassel im Mittelalter",
+         
+         "isbn" : "9783933617538",
+         
+         "shorttitle" : "Vom Königshof zur Stadt : Kassel im Mittelalter",
+         
+         "subtitle" : "Kassel im Mittelalter / Ingrid Baumgärtner (Hg.)",
+         
+         "format" : "book",
+         
+         "titlestatement" : "Ingrid Baumgärtner (Hg.)",
+         
+         "bibtexKey": "baumgartner2013knigshof"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2a13a8c88e740deb5beed4f803a0d12f6/seltsammithut",         
+         "tags" : [
+            "kassel"
+         ],
+         
+         "intraHash" : "a13a8c88e740deb5beed4f803a0d12f6",
+         "interHash" : "7b1cbe32da4d20e0c8baf60d32baaa7d",
+         "label" : "Kunst - Zwischen Kassel und Kabul. Was bringt die 13. Documenta?",
+         "user" : "seltsammithut",
+         "description" : "Gefunden im HeBIS-Portal: http://www.portal.hebis.de/",
+         "date" : "2014-07-26 15:59:48",
+         "changeDate" : "2014-07-26 15:59:48",
+         "count" : 1,
+         "pub-type": "article",
+         "journal": "Herder-Korrespondenz","booktitle": "Kunst - Zwischen Kassel und Kabul. Was bringt die 13. Documenta?",
+         "year": " 2012 ", 
+         "url": "", 
+         
+         "author": [ 
+            "Stefan Orth"
+         ],
+         "authors": [
+         	
+            	{"first" : "Stefan",	"last" : "Orth"}
+         ],
+         "volume": "66","number": "8","pages": "417","note": "Stefan Orth",
+         "issn" : "0018-0645",
+         
+         "bibtexKey": "Memo350024"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2c8eabf69de502ca14a249b466a2ffb55/b.borys",         
+         "tags" : [
+            "mmspub","myown"
+         ],
+         
+         "intraHash" : "c8eabf69de502ca14a249b466a2ffb55",
+         "interHash" : "0aba4393eb0874ebe5891706e93c06f9",
+         "label" : "Proceedings of the XII. European Annual Conference on Human Decision Making and Manual Control",
+         "user" : "b.borys",
+         "description" : "",
+         "date" : "2013-09-24 14:37:35",
+         "changeDate" : "2013-09-24 14:39:29",
+         "count" : 1,
+         "pub-type": "proceedings",
+         "series": "European Annual Conference on Human Decision Making and Manual Control","publisher":"University of Kassel","address":"Kassel",
+         "year": "1993", 
+         "url": "http://repository.tudelft.nl/view/ir/uuid:7759943d-3a43-47ad-8508-7b037a74a3f9", 
+         
+         "author": [ 
+            "Gunnar Johannsen","Bernd-Burkhard Borys"
+         ],
+         "authors": [
+         	
+            	{"first" : "Gunnar",	"last" : "Johannsen"},
+            	{"first" : "Bernd-Burkhard",	"last" : "Borys"}
+         ],
+         
+         "editor": [ 
+            "Gunnar Johannsen","Bernd-Burkhard Borys"
+         ],
+         "editors": [
+         	
+            	{"first" : "Gunnar",	"last" : "Johannsen"},
+            	{"first" : "Bernd-Burkhard",	"last" : "Borys"}
+         ],
+         "volume": "12 (Kassel)",
+         "bibtexKey": "Johannsen.Borys.1993"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/29f88d71c3486548bd2b934bfb968aea9/droessler",         
+         "tags" : [
+            "bibliothek","computer","foto","mmt","studenten","ub_kassel"
+         ],
+         
+         "intraHash" : "9f88d71c3486548bd2b934bfb968aea9",
+         "interHash" : "06e8e3762c4ae3b5c32fedf050be9c93",
+         "label" : "Multimediathek - Universitätsbibliothek Kassel",
+         "user" : "droessler",
+         "description" : "",
+         "date" : "2012-04-01 11:34:33",
+         "changeDate" : "2012-03-08 15:33:13",
+         "count" : 1,
+         "pub-type": "electronic",
+         "address":"Kassel",
+         "year": "2012", 
+         "url": "", 
+         
+         "author": [ 
+            "Stefan Drößler"
+         ],
+         "authors": [
+         	
+            	{"first" : "Stefan",	"last" : "Drößler"}
+         ],
+         "abstract": "Blick in die Multimediathek der UB Kassel mit Schriftzug an der Glastür. Studenten bei der Arbeit an den Computern.",
+         "bibtexKey": "drler2012multimediathek"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2e4b39acf5dfb9b7d12239158534f4d20/nadinepietras",         
+         "tags" : [
+            "E-Learning","Forschungsprojekt","mobile","wissensmanagement"
+         ],
+         
+         "intraHash" : "e4b39acf5dfb9b7d12239158534f4d20",
+         "interHash" : "d38e5d1f6fc7d2557701c117ed09f62d",
+         "label" : "Mobiles Lernen an der Universität Kassel",
+         "user" : "nadinepietras",
+         "description" : "",
+         "date" : "2012-03-19 13:35:55",
+         "changeDate" : "2012-04-30 23:10:12",
+         "count" : 2,
+         "pub-type": "article",
+         
+         "year": "2012", 
+         "url": "http://www.httc.de/ws-mobile-learning/rossnagel_et.al.pdf", 
+         
+         "author": [ 
+            "Alexander Roßnagel","Walter Blocher","Christiane Borchard","Klaus David","Jan Marco Leimeister","Andreas Schulz"
+         ],
+         "authors": [
+         	
+            	{"first" : "Alexander",	"last" : "Roßnagel"},
+            	{"first" : "Walter",	"last" : "Blocher"},
+            	{"first" : "Christiane",	"last" : "Borchard"},
+            	{"first" : "Klaus",	"last" : "David"},
+            	{"first" : "Jan Marco",	"last" : "Leimeister"},
+            	{"first" : "Andreas",	"last" : "Schulz"}
+         ],
+         "abstract": "Universität Kassel, Servicecenter Lehre, Forschungsprojekt\r\n\r\nIm Wintersemester 2010/2011 startete die Universität Kassel ihr Projekt \u201EMobiles Lernen\u201C, in dem erstmals in Deutschland am Beispiel von 200 iPads der Einsatz von Tablet- Computern in der Hochschullehre in sieben Lehrveranstaltungen der Fachbereiche Wirtschaftswissenschaften, Gesellschaftswissenschaften und Elektrotechnik/Informatik erprobt wurde. Die iPads können kostenlos von den Studierenden ausgeliehen werden. Das Projekt ist insgesamt auf drei Jahre angelegt.  \r\n\r\nFür die Studierenden der ausgewählten Lehrveranstaltungen ermöglicht das Projekt, in den Vorlesungen E-Books zu lesen, Kurzaufgaben des Professors zu lösen oder durch elektronische Umfragen Rückmeldungen zu geben. Sie können sich beim Lernen in Kleingruppen an jedem Ort der Universität vernetzen, Ergebnisse austauschen oder ergänzen, Literatur suchen, Datenbanken abrufen oder versäumte oder gerade übertragene Vorlesungen anschauen. \r\n\r\nVideo zum Projekt (ausgezeichnet durch deLFI): http://www.youtube.com/watch?v=fwAlB_1thE4&context=C4b2ee59ADvjVQa1PpcFOsAMgSqN6-WV6HFg6JUBeTI1WVKgacWJw=",
+         "bibtexKey": "noauthororeditor2012mobiles"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2281627dd13e051d8ab09b8f5895d4d39/steenweg",         
+         "tags" : [
+            "Digitalisierung","Goobi","Kassel","Murhard","bibliothek","landesbibliothek","myown"
+         ],
+         
+         "intraHash" : "281627dd13e051d8ab09b8f5895d4d39",
+         "interHash" : "7a5244de5296c58d30a6ae8cf589c9d9",
+         "label" : "Digitalisierung im bibliothekarischen Alltag am Beispiel der Universitätsbibliothek Kassel - Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel",
+         "user" : "steenweg",
+         "description" : "",
+         "date" : "2012-03-05 11:13:28",
+         "changeDate" : "2012-03-13 08:44:54",
+         "count" : 1,
+         "pub-type": "incollection",
+         "booktitle": "Digitalisierung in Landes- und Regionalbibliotheken","publisher":"Klostermann",
+         "year": "2012", 
+         "url": "", 
+         
+         "author": [ 
+            "Helge Steenweg"
+         ],
+         "authors": [
+         	
+            	{"first" : "Helge",	"last" : "Steenweg"}
+         ],
+         
+         "editor": [ 
+            "Irmgard Siebert"
+         ],
+         "editors": [
+         	
+            	{"first" : "Irmgard",	"last" : "Siebert"}
+         ],
+         "pages": "193 - 210",
+         "bibtexKey": "steenwegdigitalisierung"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/259acd54e74732db3439b5abc673bd94a/steenweg",         
+         "tags" : [
+            "1999","LRC","MMT","MultiMediaThek","bibliothek","kassel","multimedia","myown","ub"
+         ],
+         
+         "intraHash" : "59acd54e74732db3439b5abc673bd94a",
+         "interHash" : "6b8490f8b6558724d14b53e63e0429b7",
+         "label" : "Das Projekt \"MultiMediaThek\" (MMT) an der Gesamthochschulbibliothek Kassel",
+         "user" : "steenweg",
+         "description" : "",
+         "date" : "2010-03-03 16:09:32",
+         "changeDate" : "2010-07-14 17:33:39",
+         "count" : 1,
+         "pub-type": "article",
+         
+         "year": "1999", 
+         "url": "http://kobra.bibliothek.uni-kassel.de/bitstream/urn:nbn:de:hebis:34-200603027103/6/BibTag1999-MMT.pdf", 
+         
+         "author": [ 
+            "Helge Steenweg"
+         ],
+         "authors": [
+         	
+            	{"first" : "Helge",	"last" : "Steenweg"}
+         ],
+         "note": "Online-Publikation","abstract": "Im Informationszeitalter erhalten die Neuen Medien eine immer größer werdende Bedeutung. Lange Zeit galten gedruckte Informationen \u2013 häufig in Form von Büchern und Zeitschriften \u2013 als eigentliche Informationsquelle in den Bibliotheken. Mehr und mehr nehmen jedoch mittlerweile auch multimediale Anwendungen breiteren Raum ein, gilt es doch, sich den veränderten Lese- und insbesondere Informationsgewohnheiten anzupassen. Insbesondere sollen elektronische Informationsquellen und digitale Literatur erschlossen und bereitgestellt werden. Im Zuge dieser Entwicklung wurde durch die hessische Ministerin für Wissenschaft und Kunst am 11.11.1998 in der Gesamthochschulbibliothek Kassel eine neugeschaffene Multi-Media-Thek (MMT) eröffnet. In dieser Multimediathek sollen die Bibliotheksbenutzer die Möglichkeit erhalten, die Neuen Medien zu erkunden und gewinnbringend für ihre Fragestellungen einzusetzen. Neben den mittlerweile weiter verbreiteten Internetarbeitsplätzen haben die Benutzer Gelegenheit, an speziell ausgestatteten Arbeitsplätzen Audio- und Videoanwendungen zu testen. Die zur Verfügung stehenden Arbeitsplätze sind plattformübergreifend gestaltet, neben Windows NT-Rechnern können Macintosh-, Java- und Linux-Rechner benutzt werden. Alle PC-Systeme verfügen über hochauflösende Grafik- und Soundkarten, allerdings müssen zum Abhören von Audio-Medien, DVD\u2019s oder Multimedia-CD\u2019s entsprechende Kopfhörer aufgesetzt werden. Über WinCenter können auch auf Linux- und Macintosh-Rechnern CD-Applikationen aus dem GHB-internen CD-Server angewählt werden. Zur Auswahl stehen derzeit 140 Datenbanken, die zudem ergänzt werden durch entsprechende Datenbankzugriffe auf den Silverplatter-Server der GHB. In separaten Klein-Arbeitsräumen können Audio-Cassetten und Video-Bänder benutzt werden. Natürlich lassen sich auch herkömmliche Dias und Microfiches in den Räumen der MMT betrachten und Ausdrucke über den Reader-Printer bzw. über das Bibliotheksnetz auf einen zentralen Benutzer-Drucker (OCE-Drucksystem mit Entgeldregelung) machen. Als Auslegestelle für DIN-Normen kann im DIN-Katalog über Internet recherchiert und das Ergebnis der Recherche direkt im DIN-Bestand angesehen werden. In einem speziell eingerichteten Macintosh-Pool sind mittels Scanner, Grafikbearbeitungssoftware und OCR-Möglichkeit weitere Bedingungen für multimediales Arbeiten geschaffen. Sie sollen bei entsprechendem Bedarf um digitale Bildbearbeitung (Photo, Video) gegebenenfalls ergänzt werden. Die Bibliothek bietet in den Räumen der Multimediathek entsprechende Schulungen zur effektiven Nutzung der Rechnerausstattung an.",
+         "bibtexKey": "steenweg1999projekt"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2f907f6464518aafb0510b005784f6438/pedocs",         
+         "tags" : [
+            "Angebot","Außerunterrichtliche_Aktivität","Förderung","Ganztagsschule","Gesamtschule","Kassel","Mittelstufe","Projektunterricht","Schule","Schulform"
+         ],
+         
+         "intraHash" : "f907f6464518aafb0510b005784f6438",
+         "interHash" : "b25429befea74e3468d80cdb3d36c63c",
+         "label" : "Das pädagogische Konzept der Ganztagsschule Hegelsberg in Kassel",
+         "user" : "pedocs",
+         "description" : "",
+         "date" : "2010-12-20 19:30:42",
+         "changeDate" : "2010-12-20 19:30:44",
+         "count" : 1,
+         "pub-type": "incollection",
+         "booktitle": "Neue Chancen für die Bildung","series": "Jahrbuch Ganztagsschule. 2004","publisher":"Wochenschau-Verl.",
+         "year": "2003", 
+         "url": "http://www.pedocs.de/volltexte/2009/2050", 
+         
+         "author": [ 
+            "Stefan Appel"
+         ],
+         "authors": [
+         	
+            	{"first" : "Stefan",	"last" : "Appel"}
+         ],
+         
+         "editor": [ 
+            "Stefan Appel"
+         ],
+         "editors": [
+         	
+            	{"first" : "Stefan",	"last" : "Appel"}
+         ],
+         "pages": "131-140","abstract": "Der Autor beschreibt zunächst das Umfeld der Ganztagsschule Hegelsberg, die in einem Stadtteil mit hoher Arbeitslosigkeit und hohem Ausländeranteil liegt. Anschließend schildert er das Schulmodell, das neben obligatorischen Veranstaltungen (unterrichtserweiternde Förderprogramme) auch viele Projektveranstaltungen und Freizeitaktivitäten anbietet, die von den SchülerInnen gewählt werden können. (DIPF/GS.).",
+         "bibtexKey": "Appel.2003"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/221d86d9c672abc46ee18a0e0364326f6/fbw_hannover",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "21d86d9c672abc46ee18a0e0364326f6",
+         "interHash" : "6966c8a30f3d6b538ef8dabaccc4fb3b",
+         "label" : "Bundessozialgericht, Kassel",
+         "user" : "fbw_hannover",
+         "description" : "",
+         "date" : "2009-08-21 12:53:53",
+         "changeDate" : "2009-08-21 12:53:56",
+         "count" : 1,
+         "pub-type": "book",
+         "series": "Bundesarbeitsblatt","publisher":"Kohlhammer","address":"Stuttgart u.a.",
+         "year": "1954", 
+         "url": "http://gso.gbv.de/DB=2.1/CMD?ACT=SRCHA&SRT=YOP&IKT=1016&TRM=ppn+507391942&sourceid=fbw_bibsonomy", 
+         
+         "author": [ 
+            " ?"
+         ],
+         "authors": [
+         	
+            	{"first" : "",	"last" : "?"}
+         ],
+         "number": "1954,Nov.",
+         "subtitle" : "zur feierlichen Eröffnung am 9. September 1954 ; Sonderbeilage zur feierlichen Eröffnung des Bundessozialgerichtes in Kassel am 9. September 1954",
+         
+         "pagetotal" : "16",
+         
+         "ppn_gvk" : "507391942",
+         
+         "bibtexKey": "GVK507391942"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2a2c55ce12e473dd5a29894303c09e6f7/fbw_hannover",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "a2c55ce12e473dd5a29894303c09e6f7",
+         "interHash" : "0fffcf1ee77e9ded13a9ee498f5ee8b4",
+         "label" : "Bundesarbeitsgericht, Kassel",
+         "user" : "fbw_hannover",
+         "description" : "",
+         "date" : "2009-08-21 12:35:02",
+         "changeDate" : "2009-08-21 12:35:09",
+         "count" : 1,
+         "pub-type": "book",
+         "series": "Bundesarbeitsblatt","publisher":"Kohlhammer","address":"Stuttgart u.a.",
+         "year": "1954", 
+         "url": "http://gso.gbv.de/DB=2.1/CMD?ACT=SRCHA&SRT=YOP&IKT=1016&TRM=ppn+21412973X&sourceid=fbw_bibsonomy", 
+         
+         "author": [ 
+            " ?"
+         ],
+         "authors": [
+         	
+            	{"first" : "",	"last" : "?"}
+         ],
+         "number": "1954,Juli",
+         "subtitle" : "zur feierlichen Eröffnung am 10. Mai 1954 ; Sonderbeilage zur feierlichen Eröffnung des Bundesarbeitsgerichtes in Kassel am 10. Mai 1954",
+         
+         "pagetotal" : "XVI",
+         
+         "ppn_gvk" : "21412973X",
+         
+         "bibtexKey": "GVK21412973X"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2d924717f3fa048aa111d8f598314b56f/fbw_hannover",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "d924717f3fa048aa111d8f598314b56f",
+         "interHash" : "2953d223028a7b264de21a64a3e2f7b4",
+         "label" : "Kriterien zur Beurteilung der Finanzierung des Staatstheaters Kassel",
+         "user" : "fbw_hannover",
+         "description" : "",
+         "date" : "2009-08-21 10:05:12",
+         "changeDate" : "2009-08-21 10:09:59",
+         "count" : 1,
+         "pub-type": "book",
+         "series": "Ifo-Studien zu Kultur und Wirtschaft","publisher":"Ifo-Inst. für Wirtschaftsforschung","address":"München",
+         "year": "1994", 
+         "url": "http://gso.gbv.de/DB=2.1/CMD?ACT=SRCHA&SRT=YOP&IKT=1016&TRM=ppn+152307729&sourceid=fbw_bibsonomy", 
+         
+         "author": [ 
+            "Marlies Hummel","Cornelia Waldkircher-Heyne"
+         ],
+         "authors": [
+         	
+            	{"first" : "Marlies",	"last" : "Hummel"},
+            	{"first" : "Cornelia",	"last" : "Waldkircher-Heyne"}
+         ],
+         "number": "8",
+         "isbn" : "3885122154",
+         
+         "subtitle" : "Forschungsvorhaben der Stadt Kassel",
+         
+         "pagetotal" : "VII, 128",
+         
+         "ppn_gvk" : "152307729",
+         
+         "bibtexKey": "GVK152307729"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2a869a78f1129d5ef6ca1e710e3d38a2a/ls_leimeister",         
+         "tags" : [
+            "HoPla_1108","Wissenschaftsethik"
+         ],
+         
+         "intraHash" : "a869a78f1129d5ef6ca1e710e3d38a2a",
+         "interHash" : "101e77bba8f197dc83958b72dc8275d0",
+         "label" : "Ethik in den Wissenschaften:  Beiträge einer Ringvorlesung der Universität Kassel",
+         "user" : "ls_leimeister",
+         "description" : "",
+         "date" : "2009-04-17 15:40:42",
+         "changeDate" : "2009-04-17 15:40:42",
+         "count" : 1,
+         "pub-type": "book",
+         "publisher":"Kassel University Press GmbH","address":"Kassel",
+         "year": "2003", 
+         "url": "", 
+         
+         "author": [ 
+            "Herbert Haf"
+         ],
+         "authors": [
+         	
+            	{"first" : "Herbert",	"last" : "Haf"}
+         ],
+         
+         "price" : "EUR 14.00",
+         
+         "isbn" : "3899580435",
+         
+         "bibtexKey": "Haf.2003"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/29402e8843fba53e7544854b32b0b7c22/mediafb1",         
+         "tags" : [
+            "Medienpädagogik","culture","education","media"
+         ],
+         
+         "intraHash" : "9402e8843fba53e7544854b32b0b7c22",
+         "interHash" : "dec7c41932c1d84ef65d7b52fe9293c3",
+         "label" : "Universität Kassel, Fachbereich Erziehungswissenschaft/ Humanwissenschaften",
+         "user" : "mediafb1",
+         "description" : "Publications by MedienpÃ¤dagogik Uni Kassel",
+         "date" : "2008-10-11 11:29:28",
+         "changeDate" : "2008-10-11 11:36:17",
+         "count" : 1,
+         "pub-type": "incollection",
+         "booktitle": "Studienführer Journalismus, Medien, Kommunikation","publisher":"UVK Verlagsgesellschaft",
+         "year": "2005", 
+         "url": "", 
+         
+         "author": [ 
+            "Judith Seipold"
+         ],
+         "authors": [
+         	
+            	{"first" : "Judith",	"last" : "Seipold"}
+         ],
+         
+         "editor": [ 
+            "Walter Hömberg","Renate Hackel-de Latour"
+         ],
+         "editors": [
+         	
+            	{"first" : "Walter",	"last" : "Hömberg"},
+            	{"first" : "Renate Hackel-de",	"last" : "Latour"}
+         ],
+         "pages": "256--261",
+         "isbn" : "3825227111",
+         
+         "bibtexKey": "Seipold2005b"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2b942d104222b72e3286d464ed215d656/mediafb1",         
+         "tags" : [
+            "Medienpädagogik","culture","education","media"
+         ],
+         
+         "intraHash" : "b942d104222b72e3286d464ed215d656",
+         "interHash" : "81dea6a352b802540386d778ccc0a681",
+         "label" : "Fördert Fernsehen Medienkompetenz? Eine empirische Fernsehprogrammanalyse zum Angebot an Sendungen zur Medien- und Genrekompetenz",
+         "user" : "mediafb1",
+         "description" : "Publications by MedienpÃ¤dagogik Uni Kassel",
+         "date" : "2008-10-11 11:29:28",
+         "changeDate" : "2008-10-11 11:36:16",
+         "count" : 1,
+         "pub-type": "mastersthesis",
+         "address":"Kassel",
+         "year": "2007", 
+         "url": "http://kobra.bibliothek.uni-kassel.de/bitstream/urn:nbn:de:hebis:34-2007111419602/3/MagisterarbeitJudithSeipold.pdf", 
+         
+         "author": [ 
+            "Judith Seipold"
+         ],
+         "authors": [
+         	
+            	{"first" : "Judith",	"last" : "Seipold"}
+         ],
+         "note": "Eingereicht am Fachbereich Erziehungswissenschaft/ Humanwissenschaften an der Universität Kassel, August 2005","abstract": "Im ersten Kapitel dieser Arbeit, dem theoretischen Rahmen, erhalten die Ergebnisse der Fernsehprogrammanalyse ihre theoretische Grundlage. Anhand von Beispielen aus der alltäglichen Mediennutzung von Kindern werden die in der Einleitung entfalteten Annahmen über Orientierungsbedürfnisse von Kindern nochmals aufgegriffen. Diese Orientierungsbedürfnisse werden als Selbstschutzbedürfnisse definiert und es werden Strategien aufgezeigt, die Kinder entwickeln, um diesen Selbstschutz aufrecht zu erhalten. Die Kompetenzen, die Kinder im Umgang mit Medien in ihrem privaten Alltag entwickelt haben, spielen dabei eine Rolle, aber auch die Fähigkeit, vorgegebene Strukturen der Medien und im Umgang mit ihnen zu durchschauen, zu reflektieren und gezielt für ihre eigenen Bedürfnisse einzusetzen. Als Vertreter eines pädagogischen Verständnisses von Medienkompetenz, das Mediennutzer als vor allem im gesellschaftlichen Kontext handlungsfähig denkt, wird Dieter Baacke im zweiten Theorieteil angeführt. Seine vier Dimensionen von Medienkompetenz bildeten die Ausgangsposition für die qualitative Fernsehprogrammanalyse. Unter dem Vorzeichen kultureller Handlungsfähigkeit wird im dritten Teil der Theorie der Versuch unternommen, den theoretischen Rahmen für die Analyse von Programmangeboten abzustecken, die \u201Eanders\u201C sind als andere. Wesentlich dabei ist der Gedanke, sich mit Mitteln der Dekonstruktion und Eigeninterpretation durchschaubar zu machen. Solche Angebote können als Chance für Mediennutzer begriffen werden, Differenzerfahrungen fruchtbar für sich und andere zu gestalten und zu nutzen. Die methodische Vorgehensweise bei der qualitativen Fernsehprogrammanalyse und Operationalisierung der Fragestellung sind in Kapitel zwei beschrieben. Ausgehend von dem Versuch, Dieter Baackes vier Dimensionen von Medienkompetenz zur Operationalisierung der Fragestellung heranzuziehen, wurde während des Zeitraums von zwei Jahren versucht, \u201EMedienkompetenz\u201C als kodierbare Variable zu definieren und Sendungen qualitativ darauf zu untersuchen, ob sie Elemente enthalten, die Kinder dabei unterstützen, das Fernsehprogrammangebot und andere Medien zu ordnen und zu (er)klären und es den Zuschauern ermöglichen, darin zu manövrieren. Das Datenmaterial zu dieser Untersuchung stammt aus dem Forschungsprojekt \u201EJährliche Bestandsaufnahme zum Kinderfernsehen \u2013 qualitative und quantitative Fernsehprogrammanalyse in der Sicht der Kinder\u201C der Medienpädagogik der Universität Kassel. In mehreren Schritten wird verdeutlicht, wie die Kategorienbildung zur Einordnung der analysierten Programme und Programmelemente erfolgte. Die qualitative Fernsehprogrammanalyse teilt sich in zwei Kapitel: In Kapitel drei wird das exemplarische Programmangebot innerhalb der in Kapitel eins und zwei beschriebenen Kategorien \u201ERegeln geben\u201C, \u201ERegeln anwenden\u201C und \u201ERegeln brechen\u201C diskutiert. Die Analyse bezieht sich dabei auf das Fernsehprogrammangebot aus den Jahren 2000 bis 2003. Kapitel vier ist eine Auskopplung aus der ersten Kategorie des dritten Kapitels \u201ERegeln geben\u201C und widmet sich den \u201Eorientierenden Elementen\u201C, also Programmangeboten, die hinweisenden und werbenden Charakter haben. Solche Elemente, auch wenn sie aus Sicht der Programmanbieter für das Programm werben sollen, strukturieren das Fernsehprogramm zum einen intramedial, zum anderen bieten sie über diese inhaltlich und zeitlich strukturierenden Elemente den Zuschauer Bezugspunkte, die Zuschauer als Freiraum zum Navigieren nutzen können. Dieser Teil, das Programmangebot an orientierenden Elementen, wird in erster Linie aufgrund des Umfangs der Ausarbeitung in einem eigenen Kapitel behandelt. Zum anderen würde sich diese Trennung aber auch aufgrund der Tatsache rechtfertigen lassen, dass die Elemente, die als orientierenden Elemente bezeichnet werden, als intramediale Verweisstrukturen auf das Fernsehprogramm selbst verweisen, die in Kapitel drei behandelten Sendungen hingegen eher einen expliziten Alltagsbezug der Mediennutzer aufweisen. In Kapitel fünf, dem Fazit, werden die zentralen Ergebnisse der Fernsehprogrammanalyse zusammengefasst. In Bezug auf die Fragestellung \u201EFördert Fernsehen Medienkompetenz?\u201C und den theoretischen Rahmen, der dieser Arbeit zugrunde liegt, werden die Angebote des Fernsehen für Orientierungsbedürfnisse der Zuschauer betrachtet und mögliche Konsequenzen formuliert.",
+         "bibtexKey": "Seipold2007b"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/2f9c8150b04024677b996a1d99c518fec/brazovayeye",         
+         "tags" : [
+            "2007,","Algorithm,","Classifier","Computation,","DMC","Data","Data-Mining-Cup,","Evolutionary","Genetic","Learning","Mining,","System","System,"
+         ],
+         
+         "intraHash" : "f9c8150b04024677b996a1d99c518fec",
+         "interHash" : "8431b11ab098e92f2d2a39aa60aba661",
+         "label" : "Evolving Classifiers -- Evolutionary Algorithms in\n                 Data Mining",
+         "user" : "brazovayeye",
+         "description" : "",
+         "date" : "2008-06-19 17:35:00",
+         "changeDate" : "2008-06-19 17:54:00",
+         "count" : 3,
+         "pub-type": "techreport",
+         "publisher":"University of Kassel","address":"University of Kassel",
+         "year": "2007", 
+         "url": "http://kobra.bibliothek.uni-kassel.de/handle/urn:nbn:de:hebis:34-2007092819260", 
+         
+         "author": [ 
+            "Thomas Weise","Stefan Achler","Martin Göb","Christian Voigtmann","Michael Zapf"
+         ],
+         "authors": [
+         	
+            	{"first" : "Thomas",	"last" : "Weise"},
+            	{"first" : "Stefan",	"last" : "Achler"},
+            	{"first" : "Martin",	"last" : "Göb"},
+            	{"first" : "Christian",	"last" : "Voigtmann"},
+            	{"first" : "Michael",	"last" : "Zapf"}
+         ],
+         "volume": "2007","number": "2007, 4","pages": "1--20","abstract": "Data mining means to summarise information from large\n                 amounts of raw data. It is one of the key technologies\n                 in many areas of economy, science, administration and\n                 the Internet. In this report we introduce an approach\n                 for using evolutionary algorithms to breed fuzzy\n                 classifier systems. This approach was exercised as part\n                 of a structured procedure by the students Achler,\n                 G\\\"�b, and Voigtmann as contribution to the 2006\n                 Data-Mining-Cup contest, yielding encouragingly\n                 positive results.",
+         "contents" : "* Introduction\\\\* Data Mining\\\\* Related Work\\\\-\n                 Evolutionary Algorithms\\\\- Genetic Algorithms\\\\-\n                 Learning Classifier Systems\\\\* A Structured Approach to\n                 Data Mining\\\\* Applying the Structured Approach\\\\- The\n                 Problem Definition\\\\- Initial Analysis\\\\- Analysis of\n                 the Evolutionary Process\\\\- Contest Results and\n                 Placement\\\\* Conclusion and Future Work\\\\* References",
+         
+         "location" : "University of Kassel",
+         
+         "affiliation" : "University of Kassel, FB-16, Distributed Systems\n                 Group, Wilhelmshöher Allee 73, 34121 Kassel,\n                 Germany",
+         
+         "language" : "en",
+         
+         "notes" : "Persistent Identifier:\n                 urn:nbn:de:hebis:34-2007092819260",
+         
+         "bibtexKey": "WAGVZ2007DMC"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/22a8a739a0c20d94892dc9fa4ab2c8d9e/brazovayeye",         
+         "tags" : [
+            "DGPF,","Network,","Node","Sensor","algorithms,","genetic","programming,"
+         ],
+         
+         "intraHash" : "2a8a739a0c20d94892dc9fa4ab2c8d9e",
+         "interHash" : "a6aa9cc5c1151566d3b3c5970a7ce39d",
+         "label" : "Genetic Programming for Sensor Networks",
+         "user" : "brazovayeye",
+         "description" : "",
+         "date" : "2008-06-19 17:35:00",
+         "changeDate" : "2008-06-19 17:53:59",
+         "count" : 3,
+         "pub-type": "techreport",
+         "address":"University of Kassel",
+         "year": "2006", 
+         "url": "http://www.it-weise.de/documents/files/W2006DGPFa.pdf", 
+         
+         "author": [ 
+            "Thomas Weise"
+         ],
+         "authors": [
+         	
+            	{"first" : "Thomas",	"last" : "Weise"}
+         ],
+         "abstract": "DGPF Home: http://dgpf.sourceforge.net/ In this paper\n                 we present an approach to automated program code\n                 generation for sensor nodes and other small devices\n                 using Genetic Programming. We give a short introduction\n                 to Genetic Algorithms. Our new Distributed Genetic\n                 Programming Framework facilitates the development of\n                 sensor network applications. Genetic evolution of\n                 programs requires program testing. Therefore we use a\n                 simulation environment for distributed systems of\n                 sensor nodes. The simulation model takes into account\n                 characteristic features of sensor nodes, such as\n                 unreliable communication and resource constraints. Two\n                 application examples are presented that demonstrate the\n                 feasibility of our approach and its potential to create\n                 robust and adaptive code for sensor network\n                 applications.",
+         "rights" : "unrestricted",
+         
+         "copyright" : "unrestricted",
+         
+         "size" : "16 pages",
+         
+         "email" : "tweise@gmx.de",
+         
+         "affiliation" : "University of Kassel",
+         
+         "language" : "en",
+         
+         "notes" : "DGPF Home: http://dgpf.sourceforge.net/ The work is\n                 online available at\n                 http://www.it-weise.de/documents/index.html#W2006DGPFa\n                 The report can be downloaded at\n                 http://www.it-weise.de/documents/files/W2006DGPFa.pdf\n                 Contact Thomas Weise at tweise@gmx.de or\n                 http://www.it-weise.de/",
+         
+         "bibtexKey": "W2006DGPFa"
+
+      }
+,
+      {
+         "type" : "Publication",
+         "id"   : "https://www.bibsonomy.org/bibtex/229c426ededc708ceac7e5500ca25375a/schoeneweide",         
+         "tags" : [
+            "imported"
+         ],
+         
+         "intraHash" : "29c426ededc708ceac7e5500ca25375a",
+         "interHash" : "85e77d76a2058ce6ed4b265e6d4b96f8",
+         "label" : "Niederländische Zwangsarbeiter während des 2. Weltkrieges in\r\nKassel",
+         "user" : "schoeneweide",
+         "description" : "schoeneweide",
+         "date" : "2007-09-06 14:49:52",
+         "changeDate" : "2007-09-06 14:50:01",
+         "count" : 1,
+         "pub-type": "book",
+         "publisher":"Gedenkstätte Breitenau","address":"Kassel",
+         "year": "2001", 
+         "url": "", 
+         
+         "author": [ 
+            "Gunnar Richter"
+         ],
+         "authors": [
+         	
+            	{"first" : "Gunnar",	"last" : "Richter"}
+         ],
+         
+         "bibtexKey": "RichNied2001"
+
+      }
+	  
+   ]
+}
